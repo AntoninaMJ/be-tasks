@@ -37,7 +37,7 @@ There are two actors in the app: parent and child.
 * CSS
 * GitHub Actions
 
-## Setup:
+## Setup
 To run the App You need to build and run project with gradle wrapper:
 ```
 $ ./gradlew bootRun
